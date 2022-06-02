@@ -13,6 +13,14 @@ made by KyoungSu Kim(2022.05)
 ## Scene Capture
 ![image](https://user-images.githubusercontent.com/17541688/170880973-57766c49-66da-4892-b82d-59d888240235.png)
 
+## Different setting from lecture
+1. Click Edit tap - PlayerSettings - XR Plug-in Management - 'Install XR Plugin Management'
+2. Set checkbox Windows Mixed Reality likes this picture.
+![image](https://user-images.githubusercontent.com/17541688/171613594-c07ae3b9-d1c4-4a74-86f8-e28a23542fae.png)
+
+![image](https://user-images.githubusercontent.com/17541688/171612511-d1467199-e050-434e-b549-1287de72a036.png)
+
+
 ## How to build Hololens install file
 1. Unity Scene Build
 
